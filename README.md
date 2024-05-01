@@ -1,9 +1,8 @@
-Hi, I am Seth Konynenbelt, a student at GVSU. I created this GitHub to help me work with partners on code, track changes, 
-but also for potential employers to view my code!
+Hi! My name is Seth Konynenbelt, a student at GVSU. I created this GitHub to help me work with partners on code, track changes, 
+and have potential employers to view my code!
 
-I am a computer engineerin major interested in Embedded Engineering. I enjoy working with both hardware and software. I know
-C, Java, Python, and MATLAB. I love working on personal project using a variety of Arduinos. I am currently working on
-finishing up a chess project with full AI for school and a motion sensor triggered LED light strip in my free time.
+I am a computer engineering major interested in Embedded Engineering. I enjoy working with both hardware and software. I most enjoy
+C, VHDL, Python, and MATLAB. I am staying busy working on a custom hardware platform and virtual machine operating system for the Kria SoM. 
 
 Reach me @ sethkbelts@gmail.com or 616-953-9786
 
